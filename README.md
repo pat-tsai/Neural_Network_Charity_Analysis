@@ -23,7 +23,12 @@
   ![ScreenShots](/Resources/sequential_model2.PNG)
   
 - Were you able to achieve the target model performance?
-  - I was not able to achieve the target model performance of 75% after attempting 3 different model variants, but I was able to achieve 74.xx% accuracy using a model with relu activation function and 3 hidden layers.
+  - I was not able to achieve the target model performance of 75% after attempting 3 different model variants, but I was able to achieve 74.xx% accuracy using a model with relu activation function and 3 hidden layers. This is an improvement over the initial 53% accuracy from the original sequential model.
   
+    ![ScreenShots](/Resources/original_model.PNG)
+  
+    ![ScreenShots](/Resources/final_model.PNG)
+    
 - What steps did you take to try and increase model performance?
   - In order to optimize model performce, I first tried to drop extraneous variables from the input data. Then, I adjusted the number of epochs and tried changing model type (attempted Logistic regression and Sequential models). Lastly, I attempted to try different activation functions (ReLU, sigmoid, and leaky ReLU), as well as changing the number of hidden layers and neurons. 
+  
