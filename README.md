@@ -27,7 +27,7 @@
   
     ![ScreenShots](/Resources/original_model.PNG)
   
-    ![ScreenShots](/Resources/final_model.PNG)
+    ![ScreenShots](/Resources/final_model3.PNG)
     
 - What steps did you take to try and increase model performance?
   - In order to optimize model performce, I first tried to drop extraneous variables from the input data. Then, I adjusted the number of epochs and tried changing model type (attempted Logistic regression and Sequential models). Lastly, I attempted to try different activation functions (ReLU, sigmoid, and leaky ReLU), as well as changing the number of hidden layers and neurons. 
