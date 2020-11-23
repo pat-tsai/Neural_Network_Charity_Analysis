@@ -1,6 +1,7 @@
-# Neural_Network_Charity_Analysis
+# Neural Network CharityAnalysis
 
-## Overview: The purpose of this analysis was to create a machine learning model that can predict whether a company would receive funding from Alphabet Soup depending on a variety of metadata including: application type, affiliation, classification, use case, asking amount, status, organization type, etc..
+## Overview: 
+- The purpose of this analysis was to create a machine learning model that can predict whether a company would receive funding from Alphabet Soup depending on a variety of metadata including: application type, affiliation, classification, use case, asking amount, status, organization type, etc..
 
 ## Results:
 ### Data Preprocessing
