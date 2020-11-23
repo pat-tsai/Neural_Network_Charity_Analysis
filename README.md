@@ -18,6 +18,10 @@
 - How many neurons, layers, and activation functions did you select for your neural network model, and why?
   - I attempted to fit multiple different variations of models, and selected neuron counts ensuring the  rule of thumb (2-3x the amount of neurons per number of inputs) is satisfied. In general, I performed modeling using 1-3 hidden layers, and both "relu" and "sigmoid" activation functions.
   
+  ![ScreenShots](/Resources/sequential_model.PNG)
+  
+  ![ScreenShots](/Resources/sequential_model2.PNG)
+  
 - Were you able to achieve the target model performance?
   - I was not able to achieve the target model performance of 75% after attempting 3 different model variants, but I was able to achieve 74.xx% accuracy using a model with relu activation function and 3 hidden layers.
   
